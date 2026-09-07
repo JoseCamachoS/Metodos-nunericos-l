@@ -1,2 +1,2 @@
 # Metodos-nunericos-l
-Trabajos y ejercicios
+Metodos numericos 1
